@@ -7,6 +7,7 @@ In this paper, we analysed the efficiency of our PDDL planning model, which has 
 ![gerarchia](https://github.com/ClousTom/PathPlanningBar-AI1Assignment1/assets/117213899/bb9e4638-78fe-491c-8a87-00a34ba93a0b)
 
 *Language*: PDDL+
+
 *Planning engine*: [ENHSP](https://sites.google.com/view/enhsp/) (version 20)
 
 ### Execution
